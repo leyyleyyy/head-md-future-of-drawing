@@ -26,4 +26,5 @@
 - Hack the IA
 - Rareté
 - Lego
-- 
+- Input (style, sujet, environnement, abstraction, négation,...)
+- Game
