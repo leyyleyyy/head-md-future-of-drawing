@@ -12,7 +12,10 @@
 
 ## Prompt battle (https://www.craiyon.com/)
 
-- Comment faire un bon prompt ?
+- Comment faire un bon prompt ? 
+  - https://mspoweruser.com/fr/best-dall-e-2-prompts/
+  - https://medium.com/artificialis/smarter-prompt-designing-for-dall-e-2-f470b82a8cb6
+  - Ask chatGPT
 - Plus on est précis, plus c'est intéressant
   - Si peu d'éléments -> image clichée
 - Ecrire le + d'idées possibles 
