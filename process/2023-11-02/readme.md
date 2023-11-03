@@ -10,7 +10,9 @@
 
 - L'IA VS humains
 - L'un dessine tandis ce que l'autre doit décrypter l'IA
-- S'ils dessinent ce que l'IA veut --> gagnent
+- Le but est de faire le dessin le moins cliché possible. + le dessin est loufoque le + ils ont de chance de gagner
+  - Utiliser des éléments hors dessins standards
+  - objets etc....
 - Sinon l'IA gagne
 
 <img src="C:\Users\leyla\Downloads\idee2.1.jpeg" alt="idee2.1" style="zoom:50%;" />
@@ -29,7 +31,7 @@
 
 
 
-#### Storytelling 
+#### Storytelling 1
 
 <img src="C:\Users\leyla\Downloads\storytelling.jpeg" alt="storytelling" style="zoom:50%;" />
 
