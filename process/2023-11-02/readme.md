@@ -8,6 +8,11 @@
 
 #### Idée 1 : Escape Game prompt
 
+- L'IA VS humains
+- L'un dessine tandis ce que l'autre doit décrypter l'IA
+- S'ils dessinent ce que l'IA veut --> gagnent
+- Sinon l'IA gagne
+
 <img src="C:\Users\leyla\Downloads\idee2.1.jpeg" alt="idee2.1" style="zoom:50%;" />
 
 
@@ -38,8 +43,8 @@ Pour tester si l'idée marche
 - Les états vont dépendre du "prompt"
   - (+) l'image est clichée (+) l'IA sera dépressive
   - il faut la rendre heureuse en faisant le "prompt" le plus original possible
-  - les éléments du prompte vont dépendre de plusieurs facteurs, par exemple : 
-    - Couleur = émotion
+  - les éléments du prompt vont dépendre de plusieurs facteurs, par exemple : 
+    - Couleur = émotion pas de lia
     - Vitesse = style
     - Objet 1 = adjectif 1
     - Objet 2 = adjectif 2
@@ -59,4 +64,8 @@ Pour tester si l'idée marche
 <img src="C:\Users\leyla\Downloads\paper-prototype1-3.jpeg" alt="paper-prototype1-3" style="zoom:25%;" />
 
 
+
+- A la fin, le joueur aura un rendu de son œuvre
+
+### Retour des test
 
