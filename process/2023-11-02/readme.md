@@ -23,11 +23,7 @@
 
 
 
-
-
 <img src="C:\Users\leyla\Downloads\idee2.jpeg" alt="idee2" style="zoom:50%;" />
-
-
 
 
 
@@ -71,3 +67,6 @@ Pour tester si l'idée marche
 
 ### Retour des test
 
+- Personne commence par dessiner -> en suite prend les choses autour en voyant que l'IA pas contente
+- Construction, etc...
+- 

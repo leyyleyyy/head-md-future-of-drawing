@@ -1,10 +1,62 @@
-# 2023 - 11 - 02
+# 2023 - 11 - 03
 
 ### Références
 
-https://tomokihara.com/en/deviation-game.html
+- https://tomokihara.com/en/deviation-game.html
 
-*A game in which you must draw things in a way humans can understand but AI can’t. Now that AI can effortlessly imitate, how will we deviate?*
+- Tetris
+- Mario Klingemann - Quasimondo
+- https://underdestruction.com/2020/08/29/appropriate-response/
+
+*If someone plays piano would you say it's the piano the artist ?*
+
+- https://underdestruction.com/2020/08/29/uncanny-mirror/
+- Robbie Barrat
+- Sougwen Chung
+
+*Chung's work investigates the interactions between mark-made-by-hand and the mark- made-by-machine as an approach to understanding the dynamics of humans and systems.*
+
+![image-20231104135209069](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104135209069.png)
+
+![image-20231104134842064](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104134842064.png)
+
+
+
+- https://quickdraw.withgoogle.com/
+
+#### Déjoue l'IA
+
+- You against the IA 
+
+#### Recherches 
+
+How to make a *clichée* image less *clichée* 
+
+- First
+
+![image-20231104123318025](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104123318025.png)
+
+- The inverse of.....
+
+![image-20231104122134640](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104122134640.png)
+
+
+
+- Design an abstract ......
+
+![image-20231104122312651](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104122312651.png)
+
+
+
+- In the style of....
+
+![image-20231104122627086](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104122627086.png)
+
+
+
+- A non clichée....
+
+![image-20231104123018814](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104123018814.png)****
 
 
 
