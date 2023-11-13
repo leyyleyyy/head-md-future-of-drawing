@@ -4,7 +4,7 @@
 
 - A partir des recherches de la veille, idées générées
 - Expérience collective ? Deux 
-  - Pas VS mais coopératif
+  - **Pas VS mais coopératif**
 
 #### Idée 1 : Escape Game prompt
 
@@ -42,12 +42,11 @@ Pour tester si l'idée marche
   - (+) l'image est clichée (+) l'IA sera dépressive
   - il faut la rendre heureuse en faisant le "prompt" le plus original possible
   - les éléments du prompt vont dépendre de plusieurs facteurs, par exemple : 
-    - Couleur = émotion pas de lia
+    - Couleur = émotion (pas de l'ia)
     - Vitesse = style
     - Objet 1 = adjectif 1
-    - Objet 2 = adjectif 2
+    - Objet 2 =  artiste X
     - Matière = période
-    - Objet 3 = artiste X
     - .....
   - Plus le joueur aura réussi à débloquer des éléments, plus le rendu sera riche, plus l'IA sera heureuse
   - Chaque fois que le joueur pense que son dessin est fini il devra appuyer sur le bouton du milieu
@@ -69,4 +68,8 @@ Pour tester si l'idée marche
 
 - Personne commence par dessiner -> en suite prend les choses autour en voyant que l'IA pas contente
 - Construction, etc...
-- 
+- Essaient de comprendre comment la rendre contente 
+
+- Pas clair
+- Retour direct 
+
