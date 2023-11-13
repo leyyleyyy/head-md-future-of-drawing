@@ -2,7 +2,7 @@
 
 ## Tests premier scénario 
 
-### Scénario
+### Rappel Scénario
 
 Votre ami est en prison. Vous devez l’aider à sortir. Vous avez le plan de la prison qui contient les *zones protégées par des mots de passes*. Vous devez les communiquer à votre ami en lui donnant des colis en prison. L’IA doit s’assurer de la sécurité dans la prison.
 
