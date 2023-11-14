@@ -29,6 +29,8 @@ Une fois créé, vous devrez vous souvenir de ce code.
 
 ### Test exemple
 
+**Essaie 1 : Création d'un code**
+
 5 minutes au lieu d'une minute
 
 - en fonction des nombres de mots, de la première
@@ -49,8 +51,6 @@ Résultat :
 
 2/3 Humain
 
-
-
 ### Verdict des test
 
 - 20 mots et 2 minutes pour lire, mais sans concertation
@@ -61,7 +61,9 @@ Résultat :
   -  petit à petit, ils font leur code avec les rounds
 - chaque round somme des choses trouver par gpt / humains
 
+**Test selon le retour**
 
+![resultat4](images\resultat4.jpeg)
 
 **Après les 5 rounds :** 
 
@@ -69,9 +71,10 @@ Humain VS Chat GPT
 
 8 VS 5
 
-
-
-Retours : 
+**Retours** 
 
 - dynamique
-- comment faire qqch pour que toi tu devines mais pas chatgpt
+- comment faire qqch pour que l'autre devines mais pas ChatGPT
+
+
+

@@ -51,3 +51,14 @@ Si on utilise du papier
   - Minuteurs
   - Affiche un message
 
+
+
+## Paper prototype
+
+![paper-prototype-dos](images\paper-prototype-dos.jpg)
+
+![paper-prototype](images\paper-prototype.jpg)
+
+- Scanner dans lequel on passe la feuille 
+- Liste des mots sur le dessus
+- Timer pour le temps 

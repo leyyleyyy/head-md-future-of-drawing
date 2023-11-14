@@ -19,7 +19,7 @@ On donne un prompt de base
 
 https://quickdraw.withgoogle.com/
 
-![image-20231106090305761](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231106090305761.png)
+![image-20231106090305761](images\quickdraw-withgoogle.png)
 
 Comment faire deviner le prompt
 

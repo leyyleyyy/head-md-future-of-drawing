@@ -17,13 +17,13 @@
 
 *a cat on a boat who is eating pasta*
 
-![prompt-1](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-11-01\images\prompt-1.png)
+![prompt-1](images\prompt-1.png)
 
 #### Prompt 2
 
 *depict a absract cybernetic unicorn enjoying marshmallow fondue in Swiss Alps, drawn with caran d'ache crayon and in the style of Jackson Pollock*
 
-![prompt-2](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-11-01\images\prompt-2.png)
+![prompt-2](images\prompt-2.png)
 
 - Prompt 2 beaucoup - cliché 
 - Comment faire un bon prompt ? 
@@ -40,7 +40,7 @@
 
 Exercice : écrire le plus d'idées possibles, tout ce qui me vient en tête
 
-![arbre-idees](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-11-01\images\arbre-idees.jpeg)
+![arbre-idees](images\arbre-idees.jpeg)
 
 
 

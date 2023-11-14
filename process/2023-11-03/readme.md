@@ -12,31 +12,23 @@ Comment fonctionne les prompts ?
 
 - First
 
-![image-20231104123318025](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104123318025.png)
+![image-20231104123318025](images\image-20231104123318025.png)
 
 - The inverse of.....
 
-![image-20231104122134640](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104122134640.png)
-
-
+![image-20231104122134640](images\image-20231104122134640.png)
 
 - Design an abstract ......
 
-![image-20231104122312651](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104122312651.png)
-
-
+![image-20231104122312651](images\image-20231104122312651.png)
 
 - In the style of....
 
-![image-20231104122627086](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104122627086.png)
-
-
+![image-20231104122627086](images\image-20231104122627086.png)
 
 - A non clichée....
 
-![image-20231104123018814](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104123018814.png)****
-
-
+![image-20231104123018814](images\image-20231104123018814.png)
 
 
 
@@ -54,10 +46,4 @@ Comment fonctionne les prompts ?
 - Sougwen Chung
 
 *Chung's work investigates the interactions between mark-made-by-hand and the mark- made-by-machine as an approach to understanding the dynamics of humans and systems.*
-
-![image-20231104135209069](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104135209069.png)
-
-![image-20231104134842064](C:\Users\leyla\AppData\Roaming\Typora\typora-user-images\image-20231104134842064.png)
-
-
 

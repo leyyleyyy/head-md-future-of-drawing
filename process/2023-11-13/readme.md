@@ -32,6 +32,20 @@ Le joueur 2 doit deviner le prompt du joueur 1 à partir de l’image générée
 - Cartes
 - Détecteurs
 
-**Who is my target audience and in which context shall my project evolving ?**
+
+
+## Références
+
+Comment sont réalisées les interactions avec deux personnes ?
+
+![coffret-multi-jeux-en-bois](images\coffret-multi-jeux-en-bois.jpg)
+
+![puissan ce4](images\puissan ce4.jpg)
+
+![touche-coule](images\touche-coule.png)
+
+![coffret](images\coffret.jpg)**Who is my target audience and in which context shall my project evolving ?**
+
+
 
 **Field ? Age group ? Environment ?**

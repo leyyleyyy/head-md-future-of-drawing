@@ -8,16 +8,16 @@
 
 
 
-![retours](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-10-31\images\retours.jpeg)
+![retours](images\retours.jpeg)
 
 
 
 ## Idée 1.2
 
-![idee1.2](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-10-31\images\idee1.2.jpeg)
+![idee1.2](images\idee1.2.jpeg)
 
 
 
 ## Idée 1.3
 
-![idee1.3](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-10-31\images\idee1.3.jpeg)
+![idee1.3](images\idee1.3.jpeg)

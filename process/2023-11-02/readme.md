@@ -15,23 +15,15 @@
   - objets etc....
 - Sinon l'IA gagne
 
-<img src="C:\Users\leyla\Downloads\idee2.1.jpeg" alt="idee2.1" style="zoom:50%;" />
-
-
+<img src="C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2023-11-02\images\idee2.1.jpeg" alt="idee2.1" style="zoom:50%;" />
 
 #### Idée 2 : Hack the IA
 
-
-
-<img src="C:\Users\leyla\Downloads\idee2.jpeg" alt="idee2" style="zoom:50%;" />
-
-
+<img src="images\idee2.jpeg" alt="idee2" style="zoom:50%;" />
 
 #### Storytelling 1
 
-<img src="C:\Users\leyla\Downloads\storytelling.jpeg" alt="storytelling" style="zoom:50%;" />
-
-
+<img src="images\storytelling.jpeg" alt="storytelling" style="zoom:50%;" />
 
 ## Test
 
@@ -52,15 +44,13 @@ Pour tester si l'idée marche
   - Chaque fois que le joueur pense que son dessin est fini il devra appuyer sur le bouton du milieu
   - Il peut essayer jusqu'à la mort de l'IA
 
-<img src="C:\Users\leyla\Downloads\paper-prototype1-4.jpeg" alt="paper-prototype1-4" style="zoom:25%;" />
+<img src="images\paper-prototype1-4.jpeg" alt="paper-prototype1-4" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Downloads\paper-prototype1.jpeg" alt="paper-prototype1" style="zoom:25%;" />
+<img src="images\paper-prototype1.jpeg" alt="paper-prototype1" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Downloads\paper-protype1-2.jpeg" alt="paper-protype1-2" style="zoom:25%;" />
+<img src="images\paper-protype1-2.jpeg" alt="paper-protype1-2" style="zoom:25%;" />
 
-<img src="C:\Users\leyla\Downloads\paper-prototype1-3.jpeg" alt="paper-prototype1-3" style="zoom:25%;" />
-
-
+<img src="images\paper-prototype1-3.jpeg" alt="paper-prototype1-3" style="zoom:25%;" />
 
 - A la fin, le joueur aura un rendu de son œuvre
 
