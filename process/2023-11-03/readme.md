@@ -6,9 +6,9 @@
 
 #### Recherches 
 
-How to make a *clichée* image less *clichée* 
+But : comprendre comment les prompts fonctionne, comment est-ce qu'on peut avoir des images intéressantes 
 
-Comment fonctionne les prompts ?
+How to make a *clichée* image less *clichée* 
 
 - First
 

@@ -1,5 +1,9 @@
 # 2023 - 11 - 12
 
+Essayer des tests avec l'idée de faire deviner quelque chose à son coéquipier sans que l'IA ne sache l'interpréter
+
+- But -> voir si ca donne d'autres idées 
+
 ## Tests premier scénario 
 
 ### Rappel Scénario
@@ -41,7 +45,7 @@ Une fois créé, vous devrez vous souvenir de ce code.
 
 - trop de mots
 
-  ![resultat2](C:\Users\leyla\Desktop\head-md-future-of-drawing\process\2021-11-12\images\resultat2.jpeg)
+  ![resultat2](images\resultat2.jpeg)
 
 *Cascade éclatante, Vaguelettes paisibles, Coucher de soleil flamboyant*
 

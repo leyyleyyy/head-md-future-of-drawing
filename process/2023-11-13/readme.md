@@ -34,6 +34,15 @@ Le joueur 2 doit deviner le prompt du joueur 1 à partir de l’image générée
 
 
 
+## Discussion Laure
+
+- Voir comment sont fait les jeux de société
+- Materiel
+- Pas de barrière
+- Si on passe la feuille entre personne plutôt la mettre dessous
+
+
+
 ## Références
 
 Comment sont réalisées les interactions avec deux personnes ?
@@ -44,8 +53,4 @@ Comment sont réalisées les interactions avec deux personnes ?
 
 ![touche-coule](images\touche-coule.png)
 
-![coffret](images\coffret.jpg)**Who is my target audience and in which context shall my project evolving ?**
-
-
-
-**Field ? Age group ? Environment ?**
+![coffret](images\coffret.jpg)

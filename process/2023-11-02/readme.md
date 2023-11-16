@@ -6,6 +6,10 @@
 - Expérience collective ? Deux 
   - **Pas VS mais coopératif**
 
+
+
+J'ai essayé d'écrire le plus d'idées possible, même si je les trouvais pas toujours convaincantes
+
 #### Idée 1 : Escape Game prompt
 
 - L'IA VS humains

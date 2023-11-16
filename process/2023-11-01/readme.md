@@ -13,6 +13,8 @@
 
 ## Prompt battle (https://www.craiyon.com/)
 
+Pour mieux comprendre comment les images sont générées j'ai fait une prompt battle avec Pablo (qu'il a largement gagné:( )
+
 #### Prompt 1
 
 *a cat on a boat who is eating pasta*
