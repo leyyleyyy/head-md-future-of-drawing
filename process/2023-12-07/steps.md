@@ -20,15 +20,14 @@
 ## Electronics
 
 - Raspberry pi
-  - Inputs : Camera
-  - Outputs : Screen
+  - Inputs : Camera Logitech Kamerablende
+  - Outputs : Screen Xiaomi Mi 1C
 
 - Dimensions
-  - Box : 60x60 cm
+  - Box : 60x60x20? cm
   - Feet : 120cm
 - Api
   - OpenAI Dall-e or Copilot
 
 
 
-## 
