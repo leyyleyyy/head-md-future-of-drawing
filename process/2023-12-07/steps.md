@@ -3,9 +3,10 @@
 ## Form
 
 - 3D modelling (Fusion 360)
-  - Box
-    - Countainer 
-  - Feet
+  - Structure
+    - Box
+      - Countainer 
+    - Feet
 
 
 
@@ -22,10 +23,12 @@
 - Raspberry Pi 4 Model B - 4 GB RAM
   - Input : Camera Logitech Kamerablende
   - Output : Screen Xiaomi Mi 1C
+  - Code
 
 - Dimensions
-  - Box : 60x60x20? cm
-  - Feet : 120cm
+  - Structure
+    - Box : 60x60x20? cm
+    - Feet : 120cm
 - Api
   - OpenAI Dall-e or Copilot by Microsoft
 
