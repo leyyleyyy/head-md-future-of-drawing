@@ -6,6 +6,7 @@
   - Structure
     - Box
       - Countainer 
+      - Button
     - Feet
 
 
@@ -29,7 +30,7 @@
   - Structure
     - Box : 60x60x20? cm
     - Feet : 120cm
-- Api
+- API
   - OpenAI Dall-e or Copilot by Microsoft
 
 
