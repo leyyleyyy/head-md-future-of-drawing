@@ -10,8 +10,8 @@ B.  Transformeur
 
 - Fente dans laquelle on passe le dessin
 - Au même niveau 
-  - Déchireur de papier
-  - Imprimante
+  - Déchireur de papier ? 
+  - Imprimante ? 
 
 C. Afficheur
 
@@ -42,8 +42,8 @@ A. Structure - Contient l'électronique
 B. Fente pour passer le dessin 
 
 - L'analyse grâce à la caméra
-- Il le déchire
-- Il ressort une version faîte par l'IA imprimée
+- Il le déchire ou il le met à la poubelle
+- Optionnel : Il ressort une version faîte par l'IA imprimée
 
 C. L'écran + Plexi
 
